@@ -1,14 +1,3 @@
-C:\repos\2018-04-03\April3rd2018_TestProj\April3rd2018_TestProj\bin\Debug\netcoreapp2.0\April3rd2018_TestProj.deps.json
-C:\repos\2018-04-03\April3rd2018_TestProj\April3rd2018_TestProj\bin\Debug\netcoreapp2.0\April3rd2018_TestProj.runtimeconfig.json
-C:\repos\2018-04-03\April3rd2018_TestProj\April3rd2018_TestProj\bin\Debug\netcoreapp2.0\April3rd2018_TestProj.runtimeconfig.dev.json
-C:\repos\2018-04-03\April3rd2018_TestProj\April3rd2018_TestProj\bin\Debug\netcoreapp2.0\April3rd2018_TestProj.dll
-C:\repos\2018-04-03\April3rd2018_TestProj\April3rd2018_TestProj\bin\Debug\netcoreapp2.0\April3rd2018_TestProj.pdb
-C:\repos\2018-04-03\April3rd2018_TestProj\April3rd2018_TestProj\obj\Debug\netcoreapp2.0\April3rd2018_TestProj.csprojResolveAssemblyReference.cache
-C:\repos\2018-04-03\April3rd2018_TestProj\April3rd2018_TestProj\obj\Debug\netcoreapp2.0\April3rd2018_TestProj.csproj.CoreCompileInputs.cache
-C:\repos\2018-04-03\April3rd2018_TestProj\April3rd2018_TestProj\obj\Debug\netcoreapp2.0\April3rd2018_TestProj.AssemblyInfoInputs.cache
-C:\repos\2018-04-03\April3rd2018_TestProj\April3rd2018_TestProj\obj\Debug\netcoreapp2.0\April3rd2018_TestProj.AssemblyInfo.cs
-C:\repos\2018-04-03\April3rd2018_TestProj\April3rd2018_TestProj\obj\Debug\netcoreapp2.0\April3rd2018_TestProj.dll
-C:\repos\2018-04-03\April3rd2018_TestProj\April3rd2018_TestProj\obj\Debug\netcoreapp2.0\April3rd2018_TestProj.pdb
 C:\repos\April3rd2018_TestProj\April3rd2018_TestProj\bin\Debug\netcoreapp2.0\April3rd2018_TestProj.deps.json
 C:\repos\April3rd2018_TestProj\April3rd2018_TestProj\bin\Debug\netcoreapp2.0\April3rd2018_TestProj.runtimeconfig.json
 C:\repos\April3rd2018_TestProj\April3rd2018_TestProj\bin\Debug\netcoreapp2.0\April3rd2018_TestProj.runtimeconfig.dev.json
@@ -19,4 +8,3 @@ C:\repos\April3rd2018_TestProj\April3rd2018_TestProj\obj\Debug\netcoreapp2.0\Apr
 C:\repos\April3rd2018_TestProj\April3rd2018_TestProj\obj\Debug\netcoreapp2.0\April3rd2018_TestProj.AssemblyInfo.cs
 C:\repos\April3rd2018_TestProj\April3rd2018_TestProj\obj\Debug\netcoreapp2.0\April3rd2018_TestProj.dll
 C:\repos\April3rd2018_TestProj\April3rd2018_TestProj\obj\Debug\netcoreapp2.0\April3rd2018_TestProj.pdb
-C:\repos\April3rd2018_TestProj\April3rd2018_TestProj\obj\Debug\netcoreapp2.0\April3rd2018_TestProj.csprojResolveAssemblyReference.cache
