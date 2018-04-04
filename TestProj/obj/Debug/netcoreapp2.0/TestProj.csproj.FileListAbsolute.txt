@@ -1,0 +1,17 @@
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\bin\Debug\netcoreapp2.0\TestProj.deps.json
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\bin\Debug\netcoreapp2.0\TestProj.runtimeconfig.json
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\bin\Debug\netcoreapp2.0\TestProj.runtimeconfig.dev.json
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\bin\Debug\netcoreapp2.0\TestProj.dll
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\bin\Debug\netcoreapp2.0\TestProj.pdb
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\bin\Debug\netcoreapp2.0\April3rd2018_TestProj.dll
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\bin\Debug\netcoreapp2.0\April3rd2018_TestProj.pdb
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\obj\Debug\netcoreapp2.0\TestProj.csprojResolveAssemblyReference.cache
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\obj\Debug\netcoreapp2.0\TestProj.csproj.CoreCompileInputs.cache
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\obj\Debug\netcoreapp2.0\TestProj.AssemblyInfoInputs.cache
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\obj\Debug\netcoreapp2.0\TestProj.AssemblyInfo.cs
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\obj\Debug\netcoreapp2.0\TestProj.csproj.CopyComplete
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\obj\Debug\netcoreapp2.0\TestProj.dll
+C:\repos\2018-04-03\April3rd2018_TestProj\TestProj\obj\Debug\netcoreapp2.0\TestProj.pdb
