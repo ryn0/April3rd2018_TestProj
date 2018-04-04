@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\2018-04-03\\April3rd2018_TestProj\\April3rd2018_TestProj\\April3rd2018_TestProj.csproj",
+      "projectUniqueName": "C:\\repos\\April3rd2018_TestProj\\April3rd2018_TestProj\\April3rd2018_TestProj.csproj",
       "projectName": "April3rd2018_TestProj",
-      "projectPath": "C:\\repos\\2018-04-03\\April3rd2018_TestProj\\April3rd2018_TestProj\\April3rd2018_TestProj.csproj",
+      "projectPath": "C:\\repos\\April3rd2018_TestProj\\April3rd2018_TestProj\\April3rd2018_TestProj.csproj",
       "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\2018-04-03\\April3rd2018_TestProj\\April3rd2018_TestProj\\obj\\",
+      "outputPath": "C:\\repos\\April3rd2018_TestProj\\April3rd2018_TestProj\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

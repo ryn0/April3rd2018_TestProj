@@ -1,0 +1,17 @@
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\bin\Debug\netcoreapp2.0\April3rd2018_TestProj_UnitTests.deps.json
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\bin\Debug\netcoreapp2.0\April3rd2018_TestProj_UnitTests.runtimeconfig.json
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\bin\Debug\netcoreapp2.0\April3rd2018_TestProj_UnitTests.runtimeconfig.dev.json
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\bin\Debug\netcoreapp2.0\April3rd2018_TestProj_UnitTests.dll
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\bin\Debug\netcoreapp2.0\April3rd2018_TestProj_UnitTests.pdb
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\bin\Debug\netcoreapp2.0\April3rd2018_TestProj.dll
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\bin\Debug\netcoreapp2.0\April3rd2018_TestProj.pdb
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\obj\Debug\netcoreapp2.0\April3rd2018_TestProj_UnitTests.csprojResolveAssemblyReference.cache
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\obj\Debug\netcoreapp2.0\April3rd2018_TestProj_UnitTests.csproj.CoreCompileInputs.cache
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\obj\Debug\netcoreapp2.0\April3rd2018_TestProj_UnitTests.AssemblyInfoInputs.cache
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\obj\Debug\netcoreapp2.0\April3rd2018_TestProj_UnitTests.AssemblyInfo.cs
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\obj\Debug\netcoreapp2.0\April3rd2018_TestProj_UnitTests.csproj.CopyComplete
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\obj\Debug\netcoreapp2.0\April3rd2018_TestProj_UnitTests.dll
+C:\repos\April3rd2018_TestProj\April3rd2018_TestProj_UnitTests\obj\Debug\netcoreapp2.0\April3rd2018_TestProj_UnitTests.pdb
