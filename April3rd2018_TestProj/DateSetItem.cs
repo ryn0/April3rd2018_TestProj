@@ -1,6 +1,6 @@
 ﻿namespace April3rd2018_TestProj
 {
-    public class DateSetItem
+    public class DataSetItem
     {
         public int CategoryId { get; set; }
 

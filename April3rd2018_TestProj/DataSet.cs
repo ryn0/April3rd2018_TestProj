@@ -5,20 +5,20 @@ namespace April3rd2018_TestProj
 {
     public class DataSet
     {
-        public const int ParentLevelCategoryId = -1;
+        public const int TopLevelCategoryId = -1;
 
-        public List<DateSetItem> Items { get; set; } = new List<DateSetItem>();
+        public List<DataSetItem> Items { get; set; } = new List<DataSetItem>();
 
         public DataSet()
         {
-            Items.Add(new DateSetItem() { CategoryId = 100, ParentCategoryId = ParentLevelCategoryId, Name = "Business", Keywords = "Money" });
-            Items.Add(new DateSetItem() { CategoryId = 200, ParentCategoryId = ParentLevelCategoryId, Name = "Tutoring", Keywords = "Teaching" });
-            Items.Add(new DateSetItem() { CategoryId = 101, ParentCategoryId = 100, Name = "Accounting", Keywords = "Taxes" });
-            Items.Add(new DateSetItem() { CategoryId = 102, ParentCategoryId = 100, Name = "Taxation" });
-            Items.Add(new DateSetItem() { CategoryId = 201, ParentCategoryId = 200, Name = "Computer" });
-            Items.Add(new DateSetItem() { CategoryId = 103, ParentCategoryId = 101, Name = "Corporate Tax" });
-            Items.Add(new DateSetItem() { CategoryId = 202, ParentCategoryId = 201, Name = "Operating System" });
-            Items.Add(new DateSetItem() { CategoryId = 109, ParentCategoryId = 101, Name = "Small business Tax" });
+            Items.Add(new DataSetItem() { CategoryId = 100, ParentCategoryId = TopLevelCategoryId, Name = "Business", Keywords = "Money" });
+            Items.Add(new DataSetItem() { CategoryId = 200, ParentCategoryId = TopLevelCategoryId, Name = "Tutoring", Keywords = "Teaching" });
+            Items.Add(new DataSetItem() { CategoryId = 101, ParentCategoryId = 100, Name = "Accounting", Keywords = "Taxes" });
+            Items.Add(new DataSetItem() { CategoryId = 102, ParentCategoryId = 100, Name = "Taxation" });
+            Items.Add(new DataSetItem() { CategoryId = 201, ParentCategoryId = 200, Name = "Computer" });
+            Items.Add(new DataSetItem() { CategoryId = 103, ParentCategoryId = 101, Name = "Corporate Tax" });
+            Items.Add(new DataSetItem() { CategoryId = 202, ParentCategoryId = 201, Name = "Operating System" });
+            Items.Add(new DataSetItem() { CategoryId = 109, ParentCategoryId = 101, Name = "Small business Tax" });
 
             SetItemDepths();
         }
@@ -29,7 +29,7 @@ namespace April3rd2018_TestProj
 
             foreach (var item in Items)
             {
-                if (item.ParentCategoryId == ParentLevelCategoryId)
+                if (item.ParentCategoryId == TopLevelCategoryId)
                     continue;
 
                 var currentParentLevel = item.ParentCategoryId;
@@ -42,7 +42,7 @@ namespace April3rd2018_TestProj
 
                     item.LevelsDeep++;
 
-                } while (currentParentLevel != ParentLevelCategoryId);
+                } while (currentParentLevel != TopLevelCategoryId);
             }
         }
     }

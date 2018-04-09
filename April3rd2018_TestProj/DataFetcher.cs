@@ -4,7 +4,7 @@ namespace April3rd2018_TestProj
 {
     public class DataFetcher
     {
-        private DataSet DataSet { get; set; } = new DataSet();
+        private DataSet DataSet { get; } = new DataSet();
         private const string CategoryResultFormat = "ParentCategoryID={0}, Name={1}, Keywords={2}";
 
         public string FetchResult(int input)
@@ -30,7 +30,7 @@ namespace April3rd2018_TestProj
 
         }
 
-        private string GetParentKeywordResult(DateSetItem result)
+        private string GetParentKeywordResult(DataSetItem result)
         {
             string parentKeyword;
             var parentCategoryId = result.ParentCategoryId;
